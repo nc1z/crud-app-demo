@@ -50,7 +50,7 @@
 
 <img src="https://user-images.githubusercontent.com/111836326/202837898-8b32b232-034b-4f48-b8f0-96dbd2217c5f.png" width="400" height="421">
 
-Basic Java Spring Boot backend API app with CRUD functionality. Endpoints for creating new user (id, name), Getting all (or specific) user data, Updating user data by Id, Deleting user data by Id. Used Docker and Postgres instance.
+Basic Java Spring Boot CRUD app with Spring MVC design pattern. API endpoints for creating new user (id, name), Getting all (or specific) user data, Updating user data by Id, Deleting user data by Id. Used Docker and Postgres instance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
